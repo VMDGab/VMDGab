@@ -2,7 +2,7 @@
 
 -📚 Aprendendo React Native
 
--🎒 Estudante da Etec de Guaianases
+-🎒 Ex-Estudante da Etec de Guaianases
 
 -👨‍💻 Mobile Dev
 
